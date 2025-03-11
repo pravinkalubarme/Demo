@@ -11,18 +11,14 @@ public class FirstProgram {
 		
 		// chromedriver.exe is used for invoking browser
 		// If we skip, System.setProperty("webdriver.chrome.drivwe","C:\\Users\\Pravin\\Documents\\chromedriver"), selenium manager will take care of invoking browser
-		
 //		System.setProperty("webdriver.chrome.driver","C:\\Users\\Pravin\\Documents\\chromedriver");
 //		WebDriver driver = new ChromeDriver();
-
 //		System.setProperty("webdriver.gecko.driver","C:\\Users\\Pravin\\Documents\\geckodriver");
 //		WebDriver driver = new FirefoxDriver();
-		
-		WebDriver driver = new EdgeDriver();
-		
+		WebDriver driver = new EdgeDriver();	
 		driver.manage().window().maximize();
 //		driver.get("https://rahulshettyacademy.com/");
-//		//driver.get("https://googlechromelabs.github.io/chrome-for-testing/");
+//		driver.get("https://googlechromelabs.github.io/chrome-for-testing/");
 //		String pageTitle = driver.getTitle();
 //		System.out.println(driver.getTitle());
 //		System.out.println(driver.getCurrentUrl());
