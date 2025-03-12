@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
@@ -18,8 +19,8 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Pravin/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.28.1/selenium-chrome-driver-4.28.1.jar" sourcepath="C:/Users/Pravin/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.28.1/selenium-chrome-driver-4.28.1-sources.jar">
 		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
 			<attribute name="maven.artifactId" value="selenium-chrome-driver"/>
 			<attribute name="maven.version" value="4.28.1"/>
@@ -28,8 +29,8 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Pravin/.m2/repository/org/seleniumhq/selenium/selenium-api/4.28.1/selenium-api-4.28.1.jar" sourcepath="C:/Users/Pravin/.m2/repository/org/seleniumhq/selenium/selenium-api/4.28.1/selenium-api-4.28.1-sources.jar">
 		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
 			<attribute name="maven.artifactId" value="selenium-api"/>
 			<attribute name="maven.version" value="4.28.1"/>
@@ -38,8 +39,8 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Pravin/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.28.1/selenium-firefox-driver-4.28.1.jar" sourcepath="C:/Users/Pravin/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.28.1/selenium-firefox-driver-4.28.1-sources.jar">
 		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
 			<attribute name="maven.artifactId" value="selenium-firefox-driver"/>
 			<attribute name="maven.version" value="4.28.1"/>
@@ -48,8 +49,8 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Pravin/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.28.1/selenium-edge-driver-4.28.1.jar" sourcepath="C:/Users/Pravin/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.28.1/selenium-edge-driver-4.28.1-sources.jar">
 		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
 			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
 			<attribute name="maven.artifactId" value="selenium-edge-driver"/>
 			<attribute name="maven.version" value="4.28.1"/>
